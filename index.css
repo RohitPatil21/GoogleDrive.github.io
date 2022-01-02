@@ -171,7 +171,6 @@ aside {
 .top-row{
     padding: 1rem;
     border-bottom: 1px solid rgba(128, 128, 128, 0.315);
-    /* background-color: red; */
     display: flex;
     align-items: center;
     justify-content: space-between;
