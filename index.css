@@ -203,7 +203,7 @@ select{
 }
 
 .cardwrapper{
-    background-color: red;
+    /* background-color: red; */
     height: 15rem;
     width: 90%;
     display: flex;
@@ -235,6 +235,7 @@ select{
 .card-data {
     background-color: white;
     width: 100%;
+    box-shadow: 0 0 10px rgba(128, 128, 128, 0.671);
 }
 
 
